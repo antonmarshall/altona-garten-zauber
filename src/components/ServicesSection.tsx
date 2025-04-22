@@ -1,6 +1,6 @@
 
 import React from 'react';
-import { Leaf, Shrub, Plant, Shovel, Tractor, Flower } from 'lucide-react';
+import { Leaf, Shrub, Plane, Shovel, Tractor, Flower } from 'lucide-react';
 
 const services = [
   {
@@ -19,7 +19,7 @@ const services = [
     id: 3,
     title: 'Pflanzarbeiten',
     description: 'Fachgerechtes Setzen von Bäumen, Sträuchern, Stauden und Blumen nach Ihren Wünschen.',
-    icon: Plant
+    icon: Plane
   },
   {
     id: 4,

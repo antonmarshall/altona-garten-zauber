@@ -56,7 +56,7 @@ const GallerySection: React.FC = () => {
           {galleryItems.map((item) => (
             <div 
               key={item.id} 
-              className="gallery-item"
+              className="gallery-item group"
               onClick={() => setSelectedItem(item.id)}
             >
               <img 
@@ -64,7 +64,7 @@ const GallerySection: React.FC = () => {
                 alt={item.title}
                 className="w-full h-72 object-cover transition-transform duration-500"
               />
-              <div className="gallery-item-overlay">
+              <div className="gallery-item-overlay group-hover:opacity-100">
                 <h3 className="text-xl font-serif font-semibold mb-2">{item.title}</h3>
                 <p>{item.description}</p>
               </div>
