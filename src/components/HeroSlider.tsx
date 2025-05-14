@@ -5,13 +5,13 @@ import { Button } from '@/components/ui/button';
 const sliderData = [
   {
     id: 1,
-    image: '/images/hero_4.png',
+    image: '/images/hero_5.png',
     title: 'Ihr Traumgarten in guten Händen',
     subtitle: 'Professionelle Gartengestaltung in Hamburg-Altona'
   },
   {
     id: 2,
-    image: '/images/hero_2.png',
+    image: '/images/hero_4.png',
     title: 'Natürliche Ruheoasen schaffen',
     subtitle: 'Für Ihren Privatgarten oder Gewerbeflächen'
   },
