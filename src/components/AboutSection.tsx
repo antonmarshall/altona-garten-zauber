@@ -33,12 +33,12 @@ const AboutSection: React.FC = () => {
           
           <div className="order-1 md:order-2 grid grid-cols-2 gap-4">
             <img 
-              src="https://images.unsplash.com/photo-1615729947596-a598e5de0ab3?auto=format&fit=crop&q=80" 
+              src="/altona-garten-zauber/images/über_uns_1.png" 
               alt="Unser Team bei der Arbeit" 
               className="rounded-lg shadow-md w-full h-64 object-cover"
             />
             <img 
-              src="https://images.unsplash.com/photo-1518495973542-4542c06a5843?auto=format&fit=crop&q=80" 
+              src="/altona-garten-zauber/images/über_uns 2 .png" 
               alt="Gestalteter Garten" 
               className="rounded-lg shadow-md w-full h-64 object-cover mt-12"
             />
