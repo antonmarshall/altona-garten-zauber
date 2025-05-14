@@ -1,4 +1,3 @@
-
 import React, { useState } from 'react';
 
 // Mock data for gallery
@@ -35,7 +34,7 @@ const galleryItems = [
   },
   {
     id: 6,
-    image: 'https://images.unsplash.com/photo-1518495973542-4542c06a5843?auto=format&fit=crop&q=80',
+    image: '/images/dachterasse.png',
     title: 'Pflegeleichte Dachterrasse',
     description: 'Bürogemeinschaft T., Hamburg-Altona'
   }
