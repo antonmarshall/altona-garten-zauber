@@ -4,31 +4,31 @@ import React, { useState } from 'react';
 const galleryItems = [
   {
     id: 1,
-    image: 'https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&q=80',
+    image: '/images/hero_1.png',
     title: 'Naturgarten mit Teichanlage',
     description: 'Familie M., Hamburg-Altona'
   },
   {
     id: 2,
-    image: 'https://images.unsplash.com/photo-1501854140801-50d01698950b?auto=format&fit=crop&q=80',
+    image: '/images/hero_2.png',
     title: 'Moderner Stadtgarten',
     description: 'Architekturbüro K., Hamburg'
   },
   {
     id: 3,
-    image: 'https://images.unsplash.com/photo-1465146344425-f00d5f5c8f07?auto=format&fit=crop&q=80',
+    image: '/images/hero_3.png',
     title: 'Blühende Staudenbeete',
     description: 'Familie B., Hamburg-Ottensen'
   },
   {
     id: 4,
-    image: 'https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&q=80',
+    image: '/images/hero_4.png',
     title: 'Wassergarten mit Naturpool',
     description: 'Hotel S., Hamburg'
   },
   {
     id: 5,
-    image: 'https://images.unsplash.com/photo-1615729947596-a598e5de0ab3?auto=format&fit=crop&q=80',
+    image: '/images/hero_5.png',
     title: 'Japanisch inspirierter Garten',
     description: 'Familie N., Hamburg-Blankenese'
   },
