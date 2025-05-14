@@ -4,37 +4,37 @@ import React, { useState } from 'react';
 const galleryItems = [
   {
     id: 1,
-    image: '/images/hero_1.png',
+    image: '/altona-garten-zauber/images/hero_1.png',
     title: 'Naturgarten mit Teichanlage',
     description: 'Familie M., Hamburg-Altona'
   },
   {
     id: 2,
-    image: '/images/hero_2.png',
+    image: '/altona-garten-zauber/images/hero_2.png',
     title: 'Moderner Stadtgarten',
     description: 'Architekturbüro K., Hamburg'
   },
   {
     id: 3,
-    image: '/images/hero_3.png',
+    image: '/altona-garten-zauber/images/hero_3.png',
     title: 'Blühende Staudenbeete',
     description: 'Familie B., Hamburg-Ottensen'
   },
   {
     id: 4,
-    image: '/images/hero_4.png',
+    image: '/altona-garten-zauber/images/hero_4.png',
     title: 'Wassergarten mit Naturpool',
     description: 'Hotel S., Hamburg'
   },
   {
     id: 5,
-    image: '/images/hero_5.png',
+    image: '/altona-garten-zauber/images/hero_5.png',
     title: 'Japanisch inspirierter Garten',
     description: 'Familie N., Hamburg-Blankenese'
   },
   {
     id: 6,
-    image: '/images/dachterasse.png',
+    image: '/altona-garten-zauber/images/dachterasse.png',
     title: 'Pflegeleichte Dachterrasse',
     description: 'Bürogemeinschaft T., Hamburg-Altona'
   }
