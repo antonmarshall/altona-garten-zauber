@@ -42,16 +42,6 @@ const AboutSection: React.FC = () => {
               alt="Gestalteter Garten" 
               className="rounded-lg shadow-md w-full h-64 object-cover mt-12"
             />
-            <img 
-              src="https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&q=80" 
-              alt="Naturnahe Gartengestaltung" 
-              className="rounded-lg shadow-md w-full h-64 object-cover -mt-12"
-            />
-            <img 
-              src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&q=80" 
-              alt="Teichanlage" 
-              className="rounded-lg shadow-md w-full h-64 object-cover"
-            />
           </div>
         </div>
       </div>
