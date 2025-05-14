@@ -5,6 +5,7 @@ import { componentTagger } from "lovable-tagger";
 
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
+  base: '/altona-garten-zauber/',  // Must match BrowserRouter basename
   server: {
     host: "::",
     port: 8080,
