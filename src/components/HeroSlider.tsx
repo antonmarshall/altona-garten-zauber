@@ -5,19 +5,19 @@ import { Button } from '@/components/ui/button';
 const sliderData = [
   {
     id: 1,
-    image: '/images/hero_5.png',
+    image: '/altona-garten-zauber/images/hero_5.png',
     title: 'Ihr Traumgarten in guten Händen',
     subtitle: 'Professionelle Gartengestaltung in Hamburg-Altona'
   },
   {
     id: 2,
-    image: '/images/hero_4.png',
+    image: '/altona-garten-zauber/images/hero_4.png',
     title: 'Natürliche Ruheoasen schaffen',
     subtitle: 'Für Ihren Privatgarten oder Gewerbeflächen'
   },
   {
     id: 3,
-    image: '/images/hero_3.png',
+    image: '/altona-garten-zauber/images/hero_3.png',
     title: 'Lassen Sie Ihren Garten erblühen',
     subtitle: 'Individuelle Pflanzenkonzepte nach Ihren Wünschen'
   }
