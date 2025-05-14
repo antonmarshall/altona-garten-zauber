@@ -4,39 +4,39 @@ import React, { useState } from 'react';
 const galleryItems = [
   {
     id: 1,
-    image: '/altona-garten-zauber/images/hero_1.png',
+    image: '/altona-garten-zauber/images/teich.png',
     title: 'Naturgarten mit Teichanlage',
     description: 'Familie M., Hamburg-Altona'
   },
   {
     id: 2,
-    image: '/altona-garten-zauber/images/hero_2.png',
-    title: 'Moderner Stadtgarten',
-    description: 'Architekturbüro K., Hamburg'
-  },
-  {
-    id: 3,
-    image: '/altona-garten-zauber/images/hero_3.png',
+    image: '/altona-garten-zauber/images/staudenbeet.png',
     title: 'Blühende Staudenbeete',
     description: 'Familie B., Hamburg-Ottensen'
   },
   {
+    id: 3,
+    image: '/altona-garten-zauber/images/japan.png',
+    title: 'Japanisch inspirierter Garten',
+    description: 'Familie N., Hamburg-Blankenese'
+  },
+  {
     id: 4,
-    image: '/altona-garten-zauber/images/hero_4.png',
+    image: '/altona-garten-zauber/images/wassergarten.png',
     title: 'Wassergarten mit Naturpool',
     description: 'Hotel S., Hamburg'
   },
   {
     id: 5,
-    image: '/altona-garten-zauber/images/hero_5.png',
-    title: 'Japanisch inspirierter Garten',
-    description: 'Familie N., Hamburg-Blankenese'
-  },
-  {
-    id: 6,
     image: '/altona-garten-zauber/images/dachterasse.png',
     title: 'Pflegeleichte Dachterrasse',
     description: 'Bürogemeinschaft T., Hamburg-Altona'
+  },
+  {
+    id: 6,
+    image: '/altona-garten-zauber/images/hero_1.png',
+    title: 'Moderner Stadtgarten',
+    description: 'Architekturbüro K., Hamburg'
   }
 ];
 
